@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "homepage": "https://nashvillebrandon.github.io/portfolio-app",
   "scripts": {
     "test": "react-scripts test --env=jsdom",
     "start": "react-scripts start",
@@ -14,6 +15,7 @@
   ],
   "devDependencies": {
     "@babel/runtime": "7.13.8",
+    "gh-pages": "^3.2.3",
     "typescript": "4.1.3"
   },
   "description": "Rendition React starter project",
